@@ -1,0 +1,187 @@
+Topic 1: Fundamental and Comprehensive Understanding 
+1. What is the Software Development Life Cycle (SDLC)? Explain in detail its 
+importance and why it is used in modern software projects. 
+The SDLC is a structured process used to develop software systematically. It 
+includes several stages: requirement analysis, design, implementation, testing, 
+deployment, and maintenance. Its importance lies in ensuring software quality, 
+reducing risks, improving project control, and saving time and cost. In modern 
+projects, SDLC supports agile and DevOps methods, helping teams adapt quickly 
+to changes and deliver reliable products. 
+Use in Modern Software Projects: 
+In modern software engineering, SDLC is essential for maintaining control over 
+complex development environments. It supports agile, DevOps, and iterative 
+models, allowing continuous integration, faster delivery, and better adaptability to 
+changing requirements. This makes it a cornerstone of successful software project 
+management today. 
+Stage 
+2. For each stage of the SDLC: Identify the main inputs and outputs and mention 
+three key challenges that may face the team at each stage. 
+Main Inputs 
+Analysis 
+User and business 
+needs 
+Main Outputs 
+Key Challenges 
+Misunderstood or changing 
+requirements 
+SRS document 
+Design 
+SRS document 
+System and architecture 
+design 
+Development 
+Design documents 
+Source code 
+Incomplete or unclear designs 
+Testing 
+Coding errors and time limits 
+Code and test cases 
+Verified software 
+Deployment 
+Incomplete testing or hidden bugs 
+Tested software 
+Live system 
+Maintenance 
+Technical issues during release 
+User feedback 
+Updates and patches 
+Managing changes and bugs 
+Topic 2: Roles and Responsibilities 
+1. Table of Roles and Responsibilities in Each SDLC Phase 
+SDLC Phase Business Analyst (BA) Project 
+Manager 
+(PM) 
+Develope
+ r 
+Qualit
+ y 
+Assur
+ ance 
+(QA) 
+Other Roles 
+(e.g., UI/UX 
+Designer, 
+DevOps) 
+Analysis Gather and document 
+requirements, 
+communicate with 
+clients 
+Plan scope, 
+schedule, and 
+resources 
+Provide 
+technical 
+input on 
+feasibility 
+Revie
+ w 
+require
+ ments 
+for 
+testabil
+ ity 
+UI/UX: collect 
+user experience 
+needs 
+Design Validate that design 
+meets business needs 
+Manage design 
+reviews and 
+risks 
+Review 
+design 
+and plan 
+coding 
+tasks 
+Prepar
+ e test 
+plan 
+and 
+strateg
+ y 
+UI/UX: create 
+wireframes, 
+prototypes 
+Development Support clarification of 
+requirements 
+Track progress 
+and manage 
+timelines 
+Write, 
+integrate, 
+and 
+document 
+code 
+Begin 
+prepari
+ ng test 
+cases 
+DevOps: manage 
+development 
+environment 
+Testing Verify that business 
+needs are met 
+Monitor 
+quality and 
+schedule 
+Fix 
+defects 
+and 
+support 
+testing 
+Execut
+ e tests, 
+report 
+and 
+track 
+bugs 
+DevOps: support 
+test automation 
+ Deployment Ensure final product 
+meets user goals 
+Oversee 
+release and 
+communicatio
+ n 
+Assist 
+with 
+deployme
+ nt and bug 
+fixes 
+Validat
+ e 
+produc
+ tion 
+enviro
+ nment 
+DevOps: handle 
+deployment 
+process 
+ Maintenance Collect feedback and 
+new requirements 
+Manage 
+updates and 
+resource 
+allocation 
+Implemen
+ t updates  
+Re-test 
+after 
+update
+ s 
+DevOps: monitor 
+system 
+performance 
+ 
+2. How the Developer’s Role Changes Across SDLC Phases 
+SDLC Phase Developer’s Main Tasks 
+ Analysis Review requirements and assess technical feasibility. Provide estimates 
+and suggestions for implementation. 
+ Design Help define system architecture, choose technologies, and design database 
+and module structure. 
+Development Write clean, efficient, and maintainable code. Integrate modules and 
+perform unit testing. 
+Testing Fix bugs reported by QA, optimize code, and ensure stability of the system. 
+Deployment Support deployment, resolve post-release issues, and ensure system runs as 
+expected in production. 
+Maintenance Update existing code, add new features, and maintain performance and
