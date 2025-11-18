@@ -8,3 +8,16 @@ Database stores structured data...
 - EF Core: ORM for database...
 - LINQ: queries...
 - Blazor: web UI framework...
+
+| Feature                    | **C#**                                                        | **Java**                                                  | **Python**                                                             |
+| -------------------------- | ------------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **Type System**            | Statically typed                                              | Statically typed                                          | Dynamically typed                                                      |
+| **Primary Use Cases**      | Windows apps, enterprise apps, game development (Unity)       | Enterprise apps, Android development, large-scale systems | Data science, machine learning, scripting, automation, web development |
+| **Runtime**                | .NET / .NET Core                                              | JVM (Java Virtual Machine)                                | CPython (default), others: PyPy, Jython                                |
+| **Performance**            | Very fast (compiled to IL, JIT optimized)                     | Fast (JIT via JVM)                                        | Slower (interpreted, depends on implementation)                        |
+| **Syntax Style**           | C-style, verbose but modern                                   | C-style, verbose                                          | Very concise, beginner-friendly                                        |
+| **Ecosystem**              | Strong Microsoft support; excellent tooling via Visual Studio | Mature ecosystem; widely used in enterprise               | Huge ecosystem; especially strong in scientific computing              |
+| **Memory Management**      | Automatic garbage collection                                  | Automatic garbage collection                              | Automatic garbage collection                                           |
+| **Cross-platform Support** | Yes (via .NET Core)                                           | Yes (JVM runs on many platforms)                          | Yes                                                                    |
+| **Concurrency Model**      | Async/await; TPL                                              | Threads; CompletableFutures; functional concurrency       | GIL limits true parallel threads; great multiprocessing support        |
+| **Learning Curve**         | Moderate                                                      | Moderat                                                   |                                                                        |
