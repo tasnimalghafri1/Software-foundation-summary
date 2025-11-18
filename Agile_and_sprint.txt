@@ -1,0 +1,140 @@
+The Agile Manifesto is a document created in 2001 by a group of software 
+developers who wanted to find a better way to develop software. It defines the core 
+values and principles of Agile development, which emphasize flexibility, 
+collaboration, and customer satisfaction. 
+The Four Core Values of the Agile Manifesto: 
+1. Individuals and interactions over processes and tools. 
+2. Working software over comprehensive documentation. 
+3. Customer collaboration over contract negotiation. 
+4. Responding to change over following a plan.    
+How it differs from traditional project management: 
+Traditional (Waterfall) 
+Process 
+structure 
+Sequential and rigid (plan → design → 
+build → test → deliver) 
+Agile 
+Iterative and flexible (continuous 
+cycles called sprints) 
+Planning 
+All planning is done at the beginning and 
+rarely changes 
+Planning is adaptive and updated 
+after every sprint 
+Final product delivered at the end of the 
+project 
+Working software delivered 
+frequently in small increments 
+Difficult and costly to make changes 
+once the project starts 
+Delivery 
+Response 
+to change 
+Customer 
+involveme
+ nt 
+Change is expected and welcomed 
+at any stage 
+Limited — customer gives requirements 
+at the start and reviews at the end 
+High — customer collaborates 
+throughout the process 
+Focus 
+Risk 
+manageme
+ nt 
+Documentation, contracts, and following 
+the plan 
+High risk — problems are found late in 
+the process 
+Communication, collaboration, and 
+delivering value 
+Lower risk — continuous feedback 
+and testing reduce issues early 
+Team 
+structure 
+Hierarchical — project manager controls 
+decisions 
+Self-organizing teams with shared 
+responsibility 
+Problems they were trying to solve in the software industry: 
+1. Projects took too long and often delivered software that no longer met 
+customer needs. 
+2. Changing requirements were hard to handle with rigid plans. 
+3. There was poor communication between developers, managers, and clients. 
+4. Teams often delivered software full of bugs or that didn’t provide real value. 
+Q2.  
+Comparison Between Agile and Waterfall Methodologies 
+Aspect Waterfall Agile 
+Planning 
+Detailed planning is done before 
+work begins; the plan rarely 
+changes. 
+Planning is flexible and updated 
+throughout the project after each 
+sprint. 
+Handling Change Changes are difficult and costly 
+once development starts. 
+Change is expected and easily 
+incorporated at any stage. 
+Customer Role 
+Customers are involved mainly 
+at the beginning (requirements) 
+and end (delivery). 
+Customers are actively involved 
+throughout, providing feedback after 
+each iteration. 
+Product Delivery 
+The final product is delivered 
+only after the entire project is 
+completed. 
+Working parts of the product are 
+delivered frequently after each sprint. 
+Risk 
+Management 
+High risk — problems often 
+discovered late in the project. 
+Lower risk — early and continuous 
+testing and feedback. 
+Documentation Heavy documentation is 
+required at each stage. 
+Minimal documentation; focus on 
+communication and working software. 
+ 
+ 
+ 
+When to Use Agile 
+Criterion Description Example Scenarios 
+Requirements 
+Requirements are flexible and 
+may change frequently during 
+development. 
+1. Developing a mobile app where 
+features evolve based on user 
+feedback. 
+2. Creating a startup website that 
+adapts to market changes. 
+3. Building custom software that 
+needs regular client input. 
+Customer 
+Involvement 
+The client is highly involved and 
+provides feedback after each 
+iteration. 
+A client participates in sprint 
+reviews to test and refine new 
+features. 
+Flexibility The project needs to adapt quickly 
+to new information. 
+The team adjusts requirements or 
+design based on test results or 
+business needs. 
+Delivery 
+Working software is delivered in 
+short cycles (prints) — continuous 
+improvement. 
+A prototype or feature update is 
+released every few weeks. 
+Project Type Ideal for dynamic, innovative, or 
+uncertain projects. 
+App development, UX/UI design,
